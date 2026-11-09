@@ -34,6 +34,12 @@ The layers button in the Spaces header swaps the two lists for the tree. `mods/s
 python3 tools/space-tree/build.py tools/space-tree mods/space-tree
 ```
 
+## Arranging the tree
+
+Drag machines, spaces and sessions to put them in the order you want. Each machine splits into Personal and Work: click a
+heading to fold it, and drop a space on a row or heading to move it into that group. Spaces start in Personal. The arrangement
+is saved in Herdr's shared settings as `tree.arrange`, so every layout's tree shows the same one.
+
 ## What's here
 
 | Path | What it is |
